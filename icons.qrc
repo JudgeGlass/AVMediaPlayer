@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/FILES">
+        <file>assets/PlayIcon.png</file>
+        <file>assets/PauseIcon.png</file>
+        <file>assets/StopIcon.png</file>
+        <file>assets/ShuffleIcon.png</file>
+        <file>assets/FullscreenIcon.png</file>
+        <file>assets/URLIcon.png</file>
+        <file>assets/OpenIcon.png</file>
+        <file>assets/ProgramIcon.png</file>
+    </qresource>
+</RCC>
